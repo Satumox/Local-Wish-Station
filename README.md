@@ -15,7 +15,7 @@ $ python local-wish-station.py
 ```
 
 ### Step 2
-Set the DNS server on your game console to IP-address that the script outputs.
+On your game console, set the DNS server to the IP address that is mentioned in the output.
 
     Please set your DNS to 192.168.178.31 on your game console.
     Local Wish Station is running!
